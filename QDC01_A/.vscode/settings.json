@@ -1,9 +1,0 @@
-{
-    "files.exclude": {
-        "**/.vscode": true
-    },
-    "files.associations": {
-        "ntc.h": "c",
-        "dht11.h": "c"
-    }
-}
